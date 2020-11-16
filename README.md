@@ -19,4 +19,5 @@ Use your image processing skills to extract a user-selected cell from a microsco
 * Your user interface should be simple and should output a single image. 
 *Refer to the General Assignment Guidelines to maximise your marks.
 
+
 As with anything you submit, this must be your own work and as such, it must not be similar to any other work, including other students' submissions, previous years' submissions or material found online. **Any excessively similar submission will receive a zero mark.**
